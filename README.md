@@ -26,5 +26,6 @@ After this has run, although it looks like it is running normally, if we look at
 We can see that the data has been extracted.
 
 Furthermore, if we run this new image through Docker Scan:
-![Docker scan coming bakc clean](./img/docker_scan.png)
-We can see that it comes back clean.
+![Docker scan coming back clean](./img/docker_scan.png)
+We can see that it comes back clean, likewise in ECR:
+![ECR container scan result](./img/ecr.png)
